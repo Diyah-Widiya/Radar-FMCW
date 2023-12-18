@@ -10,4 +10,5 @@ Provides a brief introduction to FMCW radar.
 Explains how the FMCW radar process obtains information about heart rate and respiratory rate.
 ## Part-3
 Covers radar data processing (range FFT, filtering, vital sign detection).
-
+# Our Publication
+https://doi.org/10.1109/ISESD56103.2022.9980599
