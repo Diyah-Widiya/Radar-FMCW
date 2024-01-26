@@ -10,6 +10,7 @@ This section discusses the utilization of FMCW radar for vital sign detection. T
 * Code-2 represents one of the radar applications for respiratory detection. In this program, I independently collect data using IWR1843. The raw data is named `RAW_S3_24bpm_0.m.bin`, and you can learn how to read it by running the `Read_RawData.ipynb` program.
 
 # Our Publication
+If you use our code, please cite us in our publication :
 [https://doi.org/10.1109/ISESD56103.2022.9980599](https://doi.org/10.1109/ISESD56103.2022.9980599)
 
 Feel free to contact me through my account or email: [diyahwidiya52@gmail.com](mailto:diyahwidiya52@gmail.com)
